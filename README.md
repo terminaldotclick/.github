@@ -5,19 +5,19 @@
 <p align="center">Bringing dead text to life on Windows, Mac, and Linux.</p>
 <p align="center">https://terminal.click</p>
 
-This is an issues-only repo for Terminal Click (TC), a native desktop terminal that recognizes user intent and supports it with rich graphics (zero AI is involved.)
+This is an issues-only repo for Terminal Click (TC), a native desktop terminal that recognizes user intent and supports it with rich graphics. Zero AI involved.
 
 TC is:
 - Designed by a full-time [indie dev](https://abner.page/about)
 - 100% offline binary: it's yours to own forever
 - Determined to [kill](https://terminal.click/posts/2025/04/the-wizard-and-his-shell/) traditional shells
 
-TC is Handmade software. Watch the 2025 [demo](https://terminal.click/suckless) comparing the Handmade and suckless terminals.
+TC is also Handmade software. Watch the 2025 [demo](https://terminal.click/suckless) comparing the Handmade and suckless terminals.
 
 ## FAQ
 
 1. **Is Terminal Click open-source?** *No. Much like [Warp](https://github.com/warpdotdev), our repo is for beta testers to report issues. Unlike Warp, however, we're not a VC-backed startup needing to make back millions of dollars; I just want to pay my rent!*
 
-2. **How do I purchase the binary?** *A: We're in a so-called open beta. For five bucks a month you get new versions of TC in your inbox. Sign up over at https://terminal.click/beta (cancel anytime)*
+2. **How do I purchase the binary?** *A: We're in so-called open beta. For five bucks a month you get new versions of TC in your inbox. Sign up over at https://terminal.click/beta (cancel anytime)*
 
-3. **Are you open to open-source?** *A: Once we reach a 1.0 stable release, I will switch from early access (monthly subscription) to a one-off payment system. At this time, if adoption takes off, I'm quite willing to flirt with a Business Source License.*
+3. **Are you open to open-source?** *A: Once we reach a 1.0 stable release, we will switch from monthly subscription to a one-off payment system. At that time, if adoption takes off, I'm quite willing to flirt with a Business Source License.*
